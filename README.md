@@ -1,6 +1,6 @@
 # Taylor-Doppler Identity
 ### Frequency Transport on a Phase Manifold
-### Series: Harmonic Structures in Natural Systems
+### Series: Harmonic Structures in Mathematical Systems
 **Author:** Carolina Johnson (CJ)
 **Date:** July 2026
 **License:** CC BY 4.0, Attribution required
